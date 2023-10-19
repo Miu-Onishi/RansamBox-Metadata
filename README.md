@@ -1,2 +1,2 @@
-# RansamBox-Metadata
+# sample-NFT-metadata
 Created with CodeSandbox
